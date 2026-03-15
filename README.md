@@ -12,6 +12,8 @@ RajFLix is a modern, responsive movie discovery application built with React and
 ### Frontend
 ![RajFLix Frontend](frontend.png.png)
 
+![RajFLix Frontend](frontend2.png.png)
+
 ### Appwrite Database Backend
 ![RajFLix Database](public/screenshots/database.png)
 
